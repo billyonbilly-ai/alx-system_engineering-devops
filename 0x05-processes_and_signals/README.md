@@ -1,7 +1,5 @@
 ## Overview
 
-
-
 This repository contains information and examples on the use of processes and signals in bash.
 
 ## Processes
@@ -9,8 +7,6 @@ This repository contains information and examples on the use of processes and si
 
 
 In bash, a process is a program or script that is currently running. Each process is assigned a unique process ID (PID) for identification.
-
-
 
 To view all running processes, use the command `ps` or `top`. To view information about a specific process, use the command `ps -p PID` or `top -p PID`.
 
